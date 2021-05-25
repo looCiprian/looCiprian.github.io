@@ -33,7 +33,7 @@ Personal site: [grazian.tk](https://grazian.tk)
 - [UTF-8 To Char Converter](https://github.com/looCiprian/UTF-8-to-char-converter)
 
 ## IoT
-- [Remote Cat Control](https://github.com/looCiprian/remote_control_car_driving)
+- [Remote Car Control](https://github.com/looCiprian/remote_control_car_driving)
 - [esp8266 dht22 oled Node-RED](https://github.com/looCiprian/esp8266_dht22_oled_Node-RED)
 - [esp8266 oled dht22](https://github.com/looCiprian/esp8266_oled_dht22)
 
