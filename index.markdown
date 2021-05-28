@@ -25,7 +25,8 @@ Personal site: [grazian.tk](https://grazian.tk)
 - [bxaq App Analysis](https://github.com/looCiprian/bxaq_analysis)
 
 ## Certifications Tips & Triks
-- [OSCP](https://github.com/looCiprian/OSCP)
+- If you need some feedback for [OSWE](https://www.offensive-security.com/awae-oswe/) (2021) you can contact me by dropping a message [here](https://www.linkedin.com/in/lorenzo-grazian-073941179/)
+- If you need some feedback for [OSCP](https://www.offensive-security.com/pwk-oscp/) (2019) you can contact me by dropping a message [here](https://www.linkedin.com/in/lorenzo-grazian-073941179/)
 
 ## General program
 - [Differential Backup Software](https://github.com/looCiprian/differential-backup)
