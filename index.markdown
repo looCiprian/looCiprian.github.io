@@ -21,7 +21,8 @@ Personal site: [grazian.tk](https://grazian.tk)
 - [Dynamic Dir Buster using Graph Theory](https://github.com/szupar/dynamic-dirb)
 
 ## Malware
-- [encryption_1 Malware concept \(Code is private\)](https://github.com/looCiprian/encryption_1)
+- [GC2-sheet](https://github.com/looCiprian/GC2-sheet): Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive
+- [encryption_1 Malware concept \(Code is private\)](https://github.com/looCiprian/encryption_1): Malware used in several Red Teaming activities
 - [bxaq App Analysis](https://github.com/looCiprian/bxaq_analysis)
 
 ## Certifications Tips & Triks
