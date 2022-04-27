@@ -11,6 +11,7 @@ Personal site: [grazian.tk](https://grazian.tk)
 
 ## Cloud
 - [General Cloud Stuff](https://github.com/looCiprian/Cloud)
+- [AWS-audit](https://github.com/looCiprian/AWS-audit)
 
 ## Useful during ethical hacking operations (not forked)
 - [Windows WiFi Password Recovery](https://github.com/looCiprian/windows-wlan-password-recovery)
