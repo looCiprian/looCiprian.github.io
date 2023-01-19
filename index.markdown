@@ -26,15 +26,15 @@ Personal site: [grazian.tk](https://grazian.tk)
 - [encryption_1 Malware concept \(Code is private\)](https://github.com/looCiprian/encryption_1): Malware used in several Red Teaming activities
 - [bxaq App Analysis](https://github.com/looCiprian/bxaq_analysis)
 
-## Certifications Tips & Triks
-- If you need some feedback for [OSWE](https://www.offensive-security.com/awae-oswe/) (2021) you can contact me by dropping a message [here](https://www.linkedin.com/in/lorenzo-grazian-073941179/)
-- If you need some feedback for [OSCP](https://www.offensive-security.com/pwk-oscp/) (2019) you can contact me by dropping a message [here](https://www.linkedin.com/in/lorenzo-grazian-073941179/)
-
 ## General program
 - [Encrypt/decrypt files/directories using YubiKey](https://github.com/looCiprian/YubiEnc)
 - [Differential Backup Software](https://github.com/looCiprian/differential-backup)
 - [Anagram Calculator](https://github.com/looCiprian/anagram-cheater)
 - [UTF-8 To Char Converter](https://github.com/looCiprian/UTF-8-to-char-converter)
+
+## Certifications Tips & Triks
+- If you need some feedback for [OSWE](https://www.offensive-security.com/awae-oswe/) (2021) you can contact me by dropping a message [here](https://www.linkedin.com/in/lorenzo-grazian-073941179/)
+- If you need some feedback for [OSCP](https://www.offensive-security.com/pwk-oscp/) (2019) you can contact me by dropping a message [here](https://www.linkedin.com/in/lorenzo-grazian-073941179/)
 
 ## IoT
 - [Remote Car Control](https://github.com/looCiprian/remote_control_car_driving)
