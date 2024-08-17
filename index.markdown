@@ -7,8 +7,6 @@ permalink: /
 # This simple website will provide a better view of my github repository
 All the following repositories have been created by me as for the code inside, except for "Forked" and "Made with friends".
 
-Personal site: [grazian.tk](https://grazian.tk)
-
 ## Cloud
 - [General Cloud Stuff](https://github.com/looCiprian/Cloud)
 - [AWS-audit](https://github.com/looCiprian/AWS-audit)
@@ -21,7 +19,7 @@ Personal site: [grazian.tk](https://grazian.tk)
 - [Google Search Operators](https://github.com/looCiprian/google-search-operators)
 - [Dynamic Dir Buster using Graph Theory](https://github.com/szupar/dynamic-dirb)
 
-## Malware
+## C2 & Malware
 - [GC2-sheet](https://github.com/looCiprian/GC2-sheet): Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrates data using Google Drive
 - [encryption_1 Malware concept \(Code is private\)](https://github.com/looCiprian/encryption_1): Malware used in several Red Teaming activities
 - [bxaq App Analysis](https://github.com/looCiprian/bxaq_analysis)
